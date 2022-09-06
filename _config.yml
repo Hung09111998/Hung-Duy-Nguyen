@@ -2,9 +2,13 @@ title: Hung Duy Nguyen # your name (or website title) here
 logo: "/images/Hung_Nguyen_Duy.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My research orientations include, as follows:
+  <br>
   +, Learning-based Control (Handwriting Code and the RL Toolbox).
+  <br>
   +, Model Predictive Control (Applied for Nonlinear, Linear, LTV, and LTI Systems).
+  <br>
   +, Linear Quadratic Regulator (LQR), Linear Quadratic Gaussian (LQG), and H infinity.
+  <br>
   +, Software-in-the-loop Systems (SILs).
   <br><br>
   <a href="https://www.linkedin.com/in/nguyen-hung-2a1b82223/">View My LinkedIn Profile</a> 
