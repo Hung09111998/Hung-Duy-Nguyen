@@ -5,21 +5,21 @@
 ### Linear Time-Varying Model Predictive Control
 
 [Project 1 Title](/sample_page)
-<img src="images/First_Paper.png?raw=true"/>
+<img src="images/First_Research.png?raw=true"/>
 
 ---
 
 ### Collision Avoidance Strategy
 
 [Project 1 Title](/sample_page)
-<img src="images/Second_Paper.png?raw=true"/>
+<img src="images/Second_Research.png?raw=true"/>
 
 ---
 
 ### Learning-Based Control (Q-learning)
 
 [Project 1 Title](/sample_page)
-<img src="images/Third_Paper.png?raw=true"/>
+<img src="images/Third_Research.png?raw=true"/>
 
 ---
 
